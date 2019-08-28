@@ -1,0 +1,4 @@
+pygubu
+requests
+svgpathtools
+numpy
